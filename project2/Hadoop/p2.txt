@@ -1,0 +1,7 @@
+fri	449
+mon	404
+sat	446
+sun	1218
+thu	1025
+tue	458
+wed	637

@@ -1,0 +1,7 @@
+fri	99
+mon	94
+sat	100
+sun	257
+thu	219
+tue	105
+wed	126

@@ -1,0 +1,1 @@
+The Code for question 1 through 4 is included in Report.pdf. The other question are all listed under seperate Scala files, each file is self contianed and will not expect any code from previous questions to be used ie. each file declare the input file again.
